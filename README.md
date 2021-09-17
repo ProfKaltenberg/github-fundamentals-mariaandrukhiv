@@ -1,3 +1,8 @@
+Hello! I Am trying to figure out how to use GitHub. I am really confused right now, so I hope I am doing this weekly task correctly. I'm sure I'll get the hang of it soon. 
+
+
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
